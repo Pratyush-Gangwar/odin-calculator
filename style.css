@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    height: 25px;
+}
+
+button {
+    width: 39px;
+    height: 39px;
+}
+
+.big-btn {
+    width: 82px;
+}
